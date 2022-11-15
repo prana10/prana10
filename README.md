@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter & Native Android Project**
 
-- 🌱 I’m currently learning **Flutter, Ruby on Rails, Spring boot**
+- 🌱 I’m currently learning **Actix & Fiber golang**
 
 - 💬 Ask me about **Flutter, Kotlin**
 
