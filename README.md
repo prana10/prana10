@@ -22,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prana10&show_icons=true&locale=en&layout=compact" alt="prana10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prana10&show_icons=true&locale=en" alt="prana10" /></p>
 
