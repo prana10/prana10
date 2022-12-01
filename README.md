@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garyle</h1>
-<h3 align="center">just a beginner who wants to learn to be a Mobile Apps Developer</h3>
+<h3 align="center">just a beginner who wants learn to be a Mobile Apps Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prana10&label=Profile%20views&color=0e75b6&style=flat" alt="prana10" /> </p>
 
