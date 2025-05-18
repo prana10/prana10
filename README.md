@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prana</h1>
-<h3 align="center">just a beginner who wants learn to be a Mobile Apps Developer</h3>
+<h3 align="center">Busy man....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prana10&label=Profile%20views&color=0e75b6&style=flat" alt="prana10" /> </p>
 <a href="https://wakatime.com/@83d5eaad-766f-4e00-ab8a-bb1a1a356dcb"><img src="https://wakatime.com/badge/user/83d5eaad-766f-4e00-ab8a-bb1a1a356dcb.svg" alt="Total time coded since Apr 4 2023" /></a>
