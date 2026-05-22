@@ -2,7 +2,7 @@
 <h3 align="center">Senior Mobile Engineer · Flutter · Android · iOS · Cross-Platform</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pranadhikasara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prana-dhikasara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/prana10"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" /></a>
   <a href="https://medium.com/@pranadhika22"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://www.pranadhikasara.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" /></a>
